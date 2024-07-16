@@ -1,14 +1,82 @@
 {
   "users": [
     {
-      "id": "1",
-      "name": "Myra Breckenridge"
+      "id": "2cbd",
+      "name": "Gustavo O'Keefe"
     },
     {
-      "id": "0d56",
-      "name": "Willard Jacobs"
+      "id": "26f8",
+      "name": "Sheila O'Keefe"
+    },
+    {
+      "id": "b53a",
+      "name": "Geoffrey Kertzmann"
+    },
+    {
+      "id": "cc80",
+      "name": "Dexter Berge"
+    },
+    {
+      "id": "55e9",
+      "name": "Christie Morissette"
+    },
+    {
+      "id": "ceae",
+      "name": "Robert Jerde"
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "id": "1",
+      "title": "Dark Side Of The Moon",
+      "userId": "2cbd"
+    },
+    {
+      "id": "9d24",
+      "userId": "2cbd",
+      "title": "Awesome Cotton Tuna"
+    },
+    {
+      "id": "f7e0",
+      "userId": "26f8",
+      "title": "Licensed Concrete Bike"
+    },
+    {
+      "id": "c8cb",
+      "userId": "b53a",
+      "title": "Gorgeous Steel Pants"
+    },
+    {
+      "id": "2113",
+      "userId": "cc80",
+      "title": "Incredible Metal Gloves"
+    }
+  ],
+  "photos": [
+    {
+      "id": "cdd5",
+      "albumId": "1",
+      "url": "https://loremflickr.com/150/150/abstract?lock=77235"
+    },
+    {
+      "id": "a368",
+      "albumId": "9d24",
+      "url": "https://loremflickr.com/150/150/abstract?lock=11594"
+    },
+    {
+      "id": "799f",
+      "albumId": "9d24",
+      "url": "https://loremflickr.com/150/150/abstract?lock=49792"
+    },
+    {
+      "id": "d0e7",
+      "albumId": "1",
+      "url": "https://loremflickr.com/150/150/abstract?lock=82855"
+    },
+    {
+      "id": "6a71",
+      "albumId": "1",
+      "url": "https://loremflickr.com/150/150/abstract?lock=37162"
+    }
+  ]
 }
