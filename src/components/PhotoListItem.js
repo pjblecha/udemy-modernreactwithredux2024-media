@@ -1,7 +1,5 @@
 import { GoTrashcan } from "react-icons/go";
 import { useRemovePhotoMutation } from "../store/apis/photosApi";
-import Button from "./Button";
-import ExpandablePanel from "./ExpandablePanel";
 
 function PhotoListItem({ photo }) {
     const [removePhoto] = useRemovePhotoMutation();
